@@ -1,5 +1,7 @@
 body {
- background-color: 	#F0F8FF;
+ background-image: url(https://logosmarcas.net/wp-content/uploads/2022/04/DuckDuckGo-Logo-2010-2012.jpg);
+ background-repeat: no-repeat, repeat;
+  background-size: cover;
   font-family: Arial, sans-serif;
 }
 
