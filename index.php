@@ -1,3 +1,3 @@
 <?php
-echo ''Olá, turma do az900";
+echo "Olá, turma do az900";
 ?>
